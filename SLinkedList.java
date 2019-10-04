@@ -1,4 +1,4 @@
-import Node.SN; //naaodaodsoosclalenndaodoeodaxoxowoeososchll//
+import Node.SN;
 package LinkS;
 public class SLinkedList
 {
@@ -29,7 +29,7 @@ public int Element(int index)
 	
 	return tmp.data;
 }
-
+																	
 public int DeleteE(int index)
 {
 return 0;
